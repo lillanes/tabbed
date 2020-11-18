@@ -1,5 +1,5 @@
 # tabbed version
-VERSION = 0.6
+VERSION = 0.6.lillanes
 
 # Customize below to fit your system
 
